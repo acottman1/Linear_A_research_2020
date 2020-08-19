@@ -1,0 +1,9 @@
+"","Entropy"
+"full_corpus",6.14609457020053
+"all_pairs",10.1668230956663
+"all_pairs_no_unk",10.6116517103042
+"all_trios",11.1111341352939
+"all_trios__no_unk",10.6820795295851
+"unk_then_symbol",6.01089345117815
+"symbol_then_unknown",4.54136336570752
+"unk_before_and_after",8.39140279938678

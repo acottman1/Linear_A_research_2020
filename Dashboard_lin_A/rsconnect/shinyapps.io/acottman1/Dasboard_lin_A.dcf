@@ -1,0 +1,13 @@
+name: Dasboard_lin_A
+title: Dasboard_lin_A
+username:
+account: acottman1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2571550
+bundleId: 3507034
+url: https://acottman1.shinyapps.io/Dasboard_lin_A/
+when: 1597247827.94576
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ancient_greek-perseus-ud-2.4-190531.udpipe

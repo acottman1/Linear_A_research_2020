@@ -1,0 +1,801 @@
+"","V1"
+"AN Zb 1",5
+"AP Za <3>",4
+"AP Za 1",2
+"AP Za 2",2
+"AR Zf 1",5
+"AR Zf 2",5
+"ARG Zg 1",1
+"ARKH 1 a",2
+"ARKH 1 a f",4
+"ARKH 1 b",4
+"ARKH 2",3
+"ARKH 3 a",1
+"ARKH 3 b",4
+"ARKH 4 a",4
+"ARKH 4 b",3
+"ARKH 5",2
+"ARKH 6",4
+"ARKH 7",1
+"ARKH Zb 10",2
+"ARKH Zc 8",1
+"ARKH Zf 9",5
+"ARM Zg 1",4
+"CR (?) Zf 1",2
+"CR Zf 5",2
+"CR Zg 3",1
+"CR Zg 4",3
+"FO Zc 1",1
+"GO 2 r",1
+"GO 2 v",4
+"GO Wc 1 a",2
+"GO Wc 1 b",1
+"GO Wc 3",1
+"HS Zg 1",2
+"HT 1",3
+"HT 10 a",3
+"HT 10 b",2
+"HT 100",1
+"HT 101",1
+"HT 102",3
+"HT 103",3
+"HT 104",3
+"HT 105",3
+"HT 106",5
+"HT 107",4
+"HT 108",3
+"HT 109",3
+"HT 11 a",2
+"HT 11 b",3
+"HT 110 a",3
+"HT 110 b",1
+"HT 111 a",3
+"HT 111 b",4
+"HT 112 a",4
+"HT 112 b",4
+"HT 113",4
+"HT 113 ter",4
+"HT 114 a",1
+"HT 114 b",3
+"HT 115 a",2
+"HT 115 b",2
+"HT 116 a",1
+"HT 116 b",3
+"HT 117 a",5
+"HT 117 b",5
+"HT 118",3
+"HT 119",3
+"HT 12",3
+"HT 120",3
+"HT 121",1
+"HT 122 a",5
+"HT 122 b",3
+"HT 123 a",3
+"HT 123 b",5
+"HT 125 a",1
+"HT 125 b",3
+"HT 126 a",2
+"HT 126 b",4
+"HT 127 a",5
+"HT 127 b",3
+"HT 128 a",5
+"HT 128 b",4
+"HT 129",1
+"HT 13",3
+"HT 130",1
+"HT 131 a",1
+"HT 131 b",4
+"HT 132",3
+"HT 133",2
+"HT 135 a",5
+"HT 135 b",4
+"HT 136",4
+"HT 136 a",4
+"HT 136 b",4
+"HT 137",1
+"HT 139",4
+"HT 14",1
+"HT 140",1
+"HT 141",4
+"HT 142",4
+"HT 144",4
+"HT 146",3
+"HT 147",4
+"HT 15",3
+"HT 154",4
+"HT 154 A",4
+"HT 154 B",1
+"HT 154 C",1
+"HT 154 E",1
+"HT 154 G",4
+"HT 154 J a",4
+"HT 154 J b",4
+"HT 154 K",4
+"HT 154 L",4
+"HT 154 M",4
+"HT 154 N",4
+"HT 16",2
+"HT 17",3
+"HT 18",1
+"HT 19",2
+"HT 2",3
+"HT 20",2
+"HT 21",5
+"HT 22",3
+"HT 23 a",3
+"HT 23 b",4
+"HT 24 a",3
+"HT 24 b",5
+"HT 25 a",5
+"HT 25 b",3
+"HT 26 a",5
+"HT 26 b",1
+"HT 27 a",3
+"HT 27 b",2
+"HT 28 a",1
+"HT 28 b",1
+"HT 29",5
+"HT 3",4
+"HT 30",1
+"HT 31",3
+"HT 32",1
+"HT 33",1
+"HT 34",3
+"HT 35",1
+"HT 36",3
+"HT 37",3
+"HT 38",1
+"HT 39",4
+"HT 4",5
+"HT 40",3
+"HT 41 a",1
+"HT 41 b",4
+"HT 42 + 59",1
+"HT 43",2
+"HT 44 a",4
+"HT 44 b",4
+"HT 45 a",1
+"HT 45 b",1
+"HT 46 a",3
+"HT 46 b",4
+"HT 47 a",3
+"HT 47 b",4
+"HT 49 a",5
+"HT 49 b",4
+"HT 5",4
+"HT 50 a",1
+"HT 50 b",4
+"HT 51 a",4
+"HT 51 b",4
+"HT 52 a",2
+"HT 52 b",4
+"HT 53 a",4
+"HT 53 b",4
+"HT 54 a",4
+"HT 54 b",4
+"HT 55 a",5
+"HT 55 b",4
+"HT 56 a",4
+"HT 56 b",4
+"HT 57 a",4
+"HT 57 b",1
+"HT 58",3
+"HT 6 a",3
+"HT 6 b",3
+"HT 60",1
+"HT 61",4
+"HT 62",4
+"HT 62 + 73",1
+"HT 63",5
+"HT 64",1
+"HT 65",4
+"HT 66",4
+"HT 67",4
+"HT 68",4
+"HT 69",4
+"HT 7 a",2
+"HT 7 b",5
+"HT 70",4
+"HT 72",4
+"HT 73",4
+"HT 73 + 62",4
+"HT 74",4
+"HT 75",4
+"HT 78",4
+"HT 79 + 83",4
+"HT 8 a",1
+"HT 8 b",5
+"HT 80",4
+"HT 81",2
+"HT 82",4
+"HT 84",4
+"HT 85 a",3
+"HT 85 b",5
+"HT 86 a",3
+"HT 86 b",2
+"HT 87",5
+"HT 88",3
+"HT 89",1
+"HT 9 a",3
+"HT 9 b",2
+"HT 90",1
+"HT 91",1
+"HT 92",2
+"HT 93 a",3
+"HT 93 b",3
+"HT 94 a",3
+"HT 94 b",5
+"HT 95 a",3
+"HT 95 b",3
+"HT 96 a",2
+"HT 96 b",1
+"HT 97 a",3
+"HT 97 b",1
+"HT 98 a",5
+"HT 98 b",4
+"HT 99 a",1
+"HT 99 b",5
+"HT W 231A",3
+"HT W 231B",1
+"HT W 231C",4
+"HT Wa 1001",2
+"HT Wa 1006",1
+"HT Wa 1014",2
+"HT Wa 1019",5
+"HT Wa 1020",1
+"HT Wa 1021",5
+"HT Wa 1021 bis",1
+"HT Wa 1022",4
+"HT Wa 1023",1
+"HT Wa 1025",1
+"HT Wa 1026",1
+"HT Wa 1027",2
+"HT Wa 1028",2
+"HT Wa 1029",1
+"HT Wa 1031",3
+"HT Wa 1032-1033",3
+"HT Wa 1122",5
+"HT Wa 1147",2
+"HT Wa 1150",2
+"HT Wa 1175",3
+"HT Wa 1267",2
+"HT Wa 1279",5
+"HT Wa 1282",3
+"HT Wa 1322",1
+"HT Wa 1471",1
+"HT Wa 1623",1
+"HT Wa 1849",2
+"HT Wa 1850",2
+"HT Wa 1851",5
+"HT Wa 1852",2
+"HT Wa 1853",4
+"HT Wa 1854",1
+"HT Wa 1855",4
+"HT Wb 2001",3
+"HT Wb 229",1
+"HT Wc <3018>",1
+"HT Wc 3001",1
+"HT Wc 3002",5
+"HT Wc 3003",2
+"HT Wc 3004",5
+"HT Wc 3005",2
+"HT Wc 3006",2
+"HT Wc 3007",1
+"HT Wc 3008",2
+"HT Wc 3009",3
+"HT Wc 3010",2
+"HT Wc 3011",2
+"HT Wc 3012",3
+"HT Wc 3013",1
+"HT Wc 3014",3
+"HT Wc 3015",1
+"HT Wc 3016",1
+"HT Wc 3017",5
+"HT Wc 3019",1
+"HT Wc 3021",4
+"HT Wc 3022 (?)",3
+"HT Wc 3024",2
+"HT Wd 1617",3
+"HT Wd 1663",1
+"HT We/Wc 3020",1
+"HT Zb 158 a",2
+"HT Zb 158 b",2
+"HT Zb 159",2
+"HT Zb 160",3
+"HT Zb 161",4
+"HT Zb 162",5
+"HT Zb 162bis",3
+"HT Zd 155",5
+"HT Zd 157, 156, 155",1
+"HT Zd 157+156",2
+"HT Zf 163",5
+"HT Zf 164",3
+"HT Zf 165",2
+"HT Zf 166",1
+"HT Zf 167",3
+"HT Zf 168",3
+"HT Zf 169",4
+"HT Zg 163",1
+"IO Za <1>",2
+"IO Za 11",2
+"IO Za 12",2
+"IO Za 13",4
+"IO Za 14",5
+"IO Za 15",2
+"IO Za 16",2
+"IO Za 2",2
+"IO Za 3",2
+"IO Za 4",2
+"IO Za 5",2
+"IO Za 6",2
+"IO Za 7",2
+"IO Za 8",2
+"IO Za 9",2
+"IO Zb 10",2
+"KA Zf 1",5
+"KAM Zb 1",2
+"KAN Za 1",4
+"KE 1",4
+"KE Wc 2",1
+"KE Zb 3",3
+"KE Zb 4",2
+"KE Zb 5",1
+"KE Zb 6",4
+"KE Zb 7",4
+"KH 1",1
+"KH 10",2
+"KH 100",4
+"KH 11",1
+"KH 12",1
+"KH 13",4
+"KH 14",1
+"KH 15",1
+"KH 16",4
+"KH 17",1
+"KH 18",4
+"KH 19",1
+"KH 2",4
+"KH 20",1
+"KH 21",1
+"KH 22",4
+"KH 23",4
+"KH 24",4
+"KH 25",3
+"KH 26",4
+"KH 27",4
+"KH 28",4
+"KH 29",4
+"KH 3",5
+"KH 30",4
+"KH 31",4
+"KH 32",4
+"KH 33",4
+"KH 34",4
+"KH 35",1
+"KH 36",4
+"KH 37",2
+"KH 38",4
+"KH 39",4
+"KH 4",4
+"KH 40",4
+"KH 41",4
+"KH 42",4
+"KH 43",4
+"KH 44",4
+"KH 45",4
+"KH 46",4
+"KH 47",4
+"KH 49",4
+"KH 5",2
+"KH 50",4
+"KH 51",4
+"KH 52",4
+"KH 53",2
+"KH 54",4
+"KH 55",1
+"KH 56",4
+"KH 57",4
+"KH 58",4
+"KH 59",4
+"KH 6",5
+"KH 60",4
+"KH 61",4
+"KH 62",4
+"KH 63",4
+"KH 64",4
+"KH 65",4
+"KH 66",4
+"KH 67",4
+"KH 68+71",4
+"KH 69",4
+"KH 7 a",1
+"KH 7 b",1
+"KH 70",4
+"KH 72",4
+"KH 73",4
+"KH 74",5
+"KH 75",4
+"KH 76",4
+"KH 77",4
+"KH 78",4
+"KH 79",4
+"KH 79+89",2
+"KH 8",1
+"KH 80",4
+"KH 81",4
+"KH 82",4
+"KH 83",4
+"KH 84",1
+"KH 85",4
+"KH 86",4
+"KH 87",4
+"KH 88",3
+"KH 9",1
+"KH 90",4
+"KH 91",4
+"KH 92",5
+"KH 93",4
+"KH 94",4
+"KH 95",4
+"KH 96",4
+"KH 97 a",4
+"KH 97 b",4
+"KH 99",4
+"KH Wa 1001",1
+"KH Wa 1003",2
+"KH Wa 1004",2
+"KH Wa 1005-1008",3
+"KH Wa 1011",1
+"KH Wa 1013",3
+"KH Wa 1017",2
+"KH Wa 1018",1
+"KH Wa 1019",1
+"KH Wa 1020",1
+"KH Wc 2001",1
+"KH Wc 2003",4
+"KH Wc 2004",3
+"KH Wc 2005",2
+"KH Wc 2006",5
+"KH Wc 2008",1
+"KH Wc 2026",2
+"KH Wc 2028",4
+"KH Wc 2029, 2030",3
+"KH Wc 2033",1
+"KH Wc 2040",1
+"KH Wc 2041",1
+"KH Wc 2042",1
+"KH Wc 2046",1
+"KH Wc 2054",1
+"KH Wc 2056",4
+"KH Wc 2057",1
+"KH Wc 2063",3
+"KH Wc 2064",2
+"KH Wc 2065",1
+"KH Wc 2066",1
+"KH Wc 2067",1
+"KH Wc 2069",5
+"KH Wc 2070",1
+"KH Wc 2074",1
+"KH Wc 2079",5
+"KH Wc 2084",5
+"KH Wc 2088+2089+fr",4
+"KH Wc 2095",1
+"KH Wc 2097",5
+"KH Wc 2098",5
+"KH Wc 2099",2
+"KH Wc 2100",3
+"KH Wc 2101",5
+"KH Wc 2102",4
+"KH Wc 2103",5
+"KH Wc 2104",5
+"KH Wc 2106",3
+"KH Wc 2109",1
+"KH Wc 2110",5
+"KH Wc 2111",1
+"KH Wc 2113",4
+"KH Wc 2114",4
+"KH Wc 2115",5
+"KH Wc 2117",1
+"KH Wc 2118",5
+"KH Wc 2121",4
+"KH Wc 2122",5
+"KH Wc 2123",5
+"KH Wc 2124",2
+"KH Zb 98",1
+"KN 1 a",5
+"KN 1 b",5
+"KN 2",2
+"KN 22 a",4
+"KN 22 b",3
+"KN 22 c",4
+"KN 28 a",4
+"KN 28 b",4
+"KN 32 a",4
+"KN 32 b",4
+"KN 54",4
+"KN Wa 40",4
+"KN Wa 50",2
+"KN Wb 33",3
+"KN Wb 50",2
+"KN Wb 51",2
+"KN Wc 23",1
+"KN Wc 26",2
+"KN Wc 29",2
+"KN Wc 3",2
+"KN Wc 30",2
+"KN Wc 42",2
+"KN Wc 43",4
+"KN Wc 48",4
+"KN Za 10",2
+"KN Za 17",2
+"KN Za 18",2
+"KN Za 19",5
+"KN Zb <27>",2
+"KN Zb <36>",1
+"KN Zb <37>",1
+"KN Zb <38>",1
+"KN Zb <39>",1
+"KN Zb 20",2
+"KN Zb 34",3
+"KN Zb 35",4
+"KN Zb 4",2
+"KN Zb 40",2
+"KN Zb 5",2
+"KN Zb 52",3
+"KN Zb 54",4
+"KN Zb 56",3
+"KN Zc 6",3
+"KN Zc 7",2
+"KN Zd 46",4
+"KN Ze 16",2
+"KN Ze 44",2
+"KN Ze 45",2
+"KN Ze 49",5
+"KN Ze 56",3
+"KN Zf 13",5
+"KN Zf 31",2
+"KN Zg <21>",1
+"KN Zg 55",2
+"KO (?) Zf 2",2
+"KO Za 1",2
+"KY Za 2",5
+"KY Zg 1",4
+"LA Zb 1 (bis)",2
+"MA 1 a",2
+"MA 1 b",5
+"MA 1 c",5
+"MA 10 a",3
+"MA 10 b",1
+"MA 10 c",1
+"MA 10 d",2
+"MA 2 a",2
+"MA 2 b",5
+"MA 2 c",2
+"MA 4 a",3
+"MA 4 b",3
+"MA 6 a",3
+"MA 6 b",3
+"MA 6 c",4
+"MA 6 d",3
+"MA 9",4
+"MA Wc <5>",2
+"MA Wc 7",2
+"MA Zb ??",1
+"MA Zb 8",2
+"MA Ze 11",5
+"MARG Wa 1-26",2
+"MI 2",4
+"MI Zb 1",3
+"MIL Zb 1",1
+"MO Zf 1",2
+"MY Za 2",3
+"MY Zf 1",1
+"MY Zf 2",3
+"MY Zg 1",5
+"NE Za 1",4
+"PA 1",3
+"PE 1",3
+"PE 2",1
+"PE Ws",5
+"PE Wy 5",1
+"PE Zb",4
+"PE Zb 3",2
+"PE Zb 7",2
+"PE Zb 8",2
+"PE Zc 4",2
+"PE Zg 5",1
+"PE Zg 6",2
+"PH (?) 31 a",5
+"PH (?) 31 b",5
+"PH 1 a",2
+"PH 1 b",1
+"PH 10",5
+"PH 11",5
+"PH 12 a",4
+"PH 12 b",1
+"PH 12 c",5
+"PH 13 a",1
+"PH 13 b",1
+"PH 13 c",1
+"PH 14 a",1
+"PH 14 b",2
+"PH 15 a",5
+"PH 15 b",3
+"PH 16 a",1
+"PH 16 b",4
+"PH 17 a",4
+"PH 17 b",4
+"PH 18 a",4
+"PH 18 b",4
+"PH 19",4
+"PH 2",5
+"PH 22 a",1
+"PH 22 b",4
+"PH 24",3
+"PH 25",4
+"PH 26",4
+"PH 27",4
+"PH 28 a",2
+"PH 28 b",4
+"PH 29 a",4
+"PH 29 b",4
+"PH 3 a",4
+"PH 3 b",4
+"PH 30",4
+"PH 6",2
+"PH 7 a",4
+"PH 7 b",4
+"PH 8 a",3
+"PH 8 b",4
+"PH 9 a",3
+"PH 9 b",1
+"PH Wa 32",2
+"PH Wb 33",4
+"PH Wb 36",5
+"PH Wb 55",4
+"PH Wc 37",4
+"PH Wc 38",2
+"PH Wc 39",2
+"PH Wc 40",2
+"PH Wc 41",1
+"PH Wc 43",1
+"PH Wc 44",4
+"PH Wc 46",1
+"PH Wc 52",1
+"PH Wg 45",1
+"PH Wy 42",1
+"PH Zb <47>",3
+"PH Zb 4",2
+"PH Zb 48",4
+"PH Zb 5",2
+"PK 1",5
+"PK 3",1
+"PK Za 10",2
+"PK Za 11",2
+"PK Za 12",2
+"PK Za 14",2
+"PK Za 15",5
+"PK Za 16",2
+"PK Za 17",2
+"PK Za 18",2
+"PK Za 20",2
+"PK Za 4",2
+"PK Za 8",2
+"PK Za 9",2
+"PK Zb ?",5
+"PK Zb 19",5
+"PK Zb 21",1
+"PK Zb 23",2
+"PK Zb 24",1
+"PK Zb 25",2
+"PK Zc 13",4
+"PK Zg 22",1
+"PL Zf 1",2
+"PO Zc 1",2
+"PR Za 1",2
+"PS Za 2",2
+"PSI Za 1",5
+"PSI Za 2",1
+"PSI Zb 1",2
+"PYR 1",3
+"PYR 2",1
+"PYR Wc 4",2
+"PYR Zb 5",4
+"SAM Wa 1",2
+"SAM We 4",1
+"SE Zf 1",3
+"SI Zg 1",2
+"SK Zb 1",2
+"SKO Zc 1",4
+"SY Za 1",2
+"SY Za 10",2
+"SY Za 11",3
+"SY Za 12",2
+"SY Za 2",2
+"SY Za 3",2
+"SY Za 4",2
+"SY Za 5",2
+"SY Za 6",5
+"SY Za 8",2
+"SY Za 9",2
+"SY Zβ 7",1
+"TEL Zb 1",1
+"THE fr. 1",4
+"THE fr. 2",4
+"THE fr. 3",4
+"THE tab. 4",3
+"THE tab. 5",2
+"THE tab. 6",4
+"THE Zb 1",4
+"THE Zb 13",3
+"THE Zb 2",2
+"THE Zb 3",2
+"THE Zb 4",1
+"THE Zb 5",3
+"THE Zb 6",1
+"THE Zb 7",1
+"TI Zb 1",4
+"TL Za 1",2
+"TRA Zb 1",4
+"TRO Zg 1",2
+"TRO Zg 2",5
+"TRY Zb 1",4
+"TY 2",3
+"TY 3 a",1
+"TY 3 b",3
+"TY Wc 5",5
+"TY Zb 4",2
+"TY Zg 1",2
+"VRY Za 1",2
+"ZA 1 a",1
+"ZA 1 b",3
+"ZA 10 a",5
+"ZA 10 b",5
+"ZA 11 a",1
+"ZA 11 b",2
+"ZA 12 a",3
+"ZA 12 b",3
+"ZA 13",4
+"ZA 14",5
+"ZA 15 a",5
+"ZA 15 b",3
+"ZA 16",4
+"ZA 17",4
+"ZA 18 a",1
+"ZA 18 b",1
+"ZA 19",4
+"ZA 20",5
+"ZA 21 a",4
+"ZA 21 b",4
+"ZA 22",4
+"ZA 23",5
+"ZA 24 a",4
+"ZA 24 b",4
+"ZA 25",4
+"ZA 26 a",4
+"ZA 26 b",4
+"ZA 27",4
+"ZA 28",4
+"ZA 29",4
+"ZA 30",4
+"ZA 31",4
+"ZA 32",4
+"ZA 33",4
+"ZA 4 a",5
+"ZA 4 b",4
+"ZA 5 a",5
+"ZA 5 b",5
+"ZA 6 a",3
+"ZA 6 b",3
+"ZA 7 a",2
+"ZA 7 b",4
+"ZA 8",2
+"ZA 9",2
+"ZA Wa 36",3
+"ZA Wa 38",2
+"ZA Wb 37",5
+"ZA Wc 2",5
+"ZA Zb 3",2
+"ZA Zb 34",5
+"ZA Zg 34",2
+"ZA Zg 35",5
